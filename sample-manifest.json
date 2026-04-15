@@ -1,0 +1,12 @@
+{
+  "export_job_id": "a53a2e51-4f71-4e85-9161-51f4e3e8250f",
+  "id_short": 897713,
+  "published_at": "2026-04-15T19:16:07Z",
+  "repo_name": "top-30-active-restaurant-whales-in-miami-us-sample-897713",
+  "sample_asset_name": "beamstation_897713_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/897713/beamstation_897713_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_records": 71,
+  "sample_sha256": "a258971b5b147a6ced55dafa41416bc7c90a1a26fb371a36e850411bdf3bb339",
+  "sample_size_bytes": 288984,
+  "total_records": 531
+}
