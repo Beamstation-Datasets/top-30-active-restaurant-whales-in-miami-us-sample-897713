@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a city-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
   "config_name": "Top 30% Active Restaurant Whales in Miami, US",
-  "export_job_id": "a53a2e51-4f71-4e85-9161-51f4e3e8250f",
+  "export_job_id": "51ae9af8-ac17-437e-bd1f-40db08d023af",
   "github_org": "Beamstation-Datasets",
   "id_short": 897713,
   "location_name": "Miami",
   "location_type": "city",
   "repo_name": "top-30-active-restaurant-whales-in-miami-us-sample-897713",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/897713/beamstation_897713_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_pct": 13.37,
+  "sample_pct": 9.9,
   "sample_records": 71,
   "sample_sha256": "a258971b5b147a6ced55dafa41416bc7c90a1a26fb371a36e850411bdf3bb339",
   "sample_size_bytes": 288984,
-  "total_records": 531,
-  "updated_at": "2026-04-07T19:00:09.609259+00:00"
+  "total_records": 717,
+  "updated_at": "2026-04-15T00:11:48.520739+00:00"
 }
