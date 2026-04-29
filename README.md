@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Whales in Miami, US
 
-> Free BeamStation sample export with 45 rows and masked direct-contact fields.
+> Free BeamStation sample export with 11 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `897713` |
 | Location | Miami |
 | Category | Restaurants |
-| Full dataset size | 453 records |
-| Free sample size | 45 records (9.93%) |
-| Last export | 2026-04-22T04:08:16.023485+00:00 |
+| Full dataset size | 111 records |
+| Free sample size | 11 records (9.91%) |
+| Last export | 2026-04-29T06:39:42.479015+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-miami-us-sample-897713/releases/download/sample-latest/beamstation_897713_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
